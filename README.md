@@ -1,9 +1,11 @@
 ## Project: Recipes
 
-This project is from the Odin Project, an open source learning platform for web development.
+From the Odin Project, an open source learning platform for web development.
 
-I already have a good understanding of HTML and CSS although my skills are
-somewhat rusty. I hope to brush up on those skills and get to know javascript
-which will come a little later in the project.
+I already have a reasonable understanding of HTML and CSS although my skills are
+somewhat rusty. This project will help me to brush up on those skills. 
+
+I have learned how to host a site on github and I am very pleased with
+the implications of this.
 
 More information about the Odin Project can be found at https://www.theodinproject.com
